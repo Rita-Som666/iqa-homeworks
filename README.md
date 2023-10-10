@@ -19,3 +19,7 @@
 2.4. [Инструменты тестирования. Клиент-сервер](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.4).
 
 2.5. [Жизненный цикл разработки ПО. Гибкие методологии разработки ПО](https://github.com/netology-code/iqa-homeworks/tree/iqa-12/2.5/).
+
+#Хоп-хей
+
+Ла-ла-лей
